@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\piyoo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\piyoo\\.nuget\\packages"
+    ]
+  }
+}
